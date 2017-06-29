@@ -26,7 +26,9 @@ cmake-build-debug/
 .idea/**/mongoSettings.xml
 
 ## File-based project format:
+.idea*
 *.iws
+*.iml
 
 ## Plugin-specific files:
 
@@ -47,3 +49,6 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+__pycache__/graphics.cpython-36.pyc
+.idea/PyAI.iml
+.idea/misc.xml
